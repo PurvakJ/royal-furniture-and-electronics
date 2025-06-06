@@ -23,9 +23,9 @@ const Footer = () => {
         
         <div className="footer-section">
           <h4>Contact Info</h4>
-          <p>123 Furniture Street, New Delhi</p>
-          <p>Phone: +91 98765 43210</p>
-          <p>Email: info@royalfurnitureelectronics.com</p>
+          <p>Maur Talwandi Road, Near Haryali Pump</p>
+          <p>Phone: +91 99151-84617</p>
+          <p>Email: royalfurnitureandelectronics1@google.com</p>
         </div>
       </div>
       
